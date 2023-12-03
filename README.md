@@ -2,13 +2,6 @@
 ## Snake Game JavaScript
 A simple Snake Game implemented in JavaScript. Play the classic Snake Game and challenge yourself to achieve the highest score!
 
-# Table of Contents
-Demo 
-Features
-Getting Started
-How to Play
-Controls
-
 # Demo
 You can access it here: https://dhananjay-singh1.github.io/snakeGame/
 
